@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me :
   > https://twitter.com/superdex27
+  > dekstur_github@outlook.com
 
 <!---
 blitzdex27/blitzdex27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
